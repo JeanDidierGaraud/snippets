@@ -1,1 +1,3 @@
 # snippets
+
+Misc code snippets.
