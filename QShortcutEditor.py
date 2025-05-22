@@ -34,6 +34,8 @@ Typical usage, call it from your QMainWindow::
             # keep a reference, otherwise it may be garbage-collected too soon:
             self._shortcut_editor = ed
 
+Look at the ``if __name__ == "__main__":`` block of this file for a complete usage (popup window or dockable widget).
+
 Note: it also works with PyQt5, just change the from...import statement.
 """
 
