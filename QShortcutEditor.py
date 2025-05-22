@@ -13,7 +13,7 @@
 
 # Copyright (C) 2019-2020 Jean-Didier Garaud
 # This file's most recent version can be retrieved at:
-#    https://github.com/Demi-Lune/snippets/blob/master/QShortcutEditor.py
+#    https://github.com/JeanDidierGaraud/snippets/blob/master/QShortcutEditor.py
 
 
 """
